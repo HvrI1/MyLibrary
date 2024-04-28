@@ -28,5 +28,6 @@ public class AddOperation implements IOperation {
         bl.setBooks(curSize,book);
         bl.setSize(curSize+1);
         System.out.println("添加成功！");
+        System.out.println("添加成功！");
     }
 }
