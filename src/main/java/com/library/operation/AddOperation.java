@@ -30,5 +30,6 @@ public class AddOperation implements IOperation {
         System.out.println("添加成功！");
         System.out.println("添加成功！");
         System.out.println("添加成功！");
+        System.out.println("添加成功！");
     }
 }
